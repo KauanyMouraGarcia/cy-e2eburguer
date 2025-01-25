@@ -11,3 +11,5 @@
 
 #!.yarn/cache
 .pnp.*
+cypress/videos
+cypress/screenshots
